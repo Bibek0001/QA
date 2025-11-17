@@ -1,2 +1,2 @@
 # QA
-This is my academic QA project
+This is my  QA project
